@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
-- 👨‍💻 My PortFolio Link: [https://arfa-shoukat-portfolio.netlify.app/](https://arfa-shoukat-portfolio.netlify.app/)
-
 - 💬 Ask me about **JavaScript, React JS**
 
 - 📫 How to reach me: **arfaansari73@gmail.com**
