@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web and Mobile App Development**
 
-- 👯 I’m looking to collaborate on **Open Source Project**
+- 👯 I’m contributing on **Open Source Project**
 
 - 💬 Ask me about **JavaScript, React JS**
 
