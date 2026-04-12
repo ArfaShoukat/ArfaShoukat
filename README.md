@@ -13,9 +13,9 @@
 ---
 
 ### 🌸 About Me  
-- 🌱 I’m currently learning **Web and Mobile App Development**  
+- 🌱 **Software Engineer + Mern Stack Developer**  
 - 👯 I’m contributing to **Open Source Projects**  
-- 💬 Ask me about **JavaScript, React.js, or Frontend Development**  
+- 💬 Ask me about **JavaScript, React.js, Mern**  
 - 📫 Reach me at **arfaansari73@gmail.com**  
 - ⚡ Fun fact: *I love turning ideas into beautiful UIs* ✨  
 
